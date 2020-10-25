@@ -1,0 +1,15 @@
+git init
+git config --list
+git config user.name "Yatharth"
+git config user.email "yatharth0045@gmail.com"
+git config --global user.name "Yatharth"
+git config --global user.email "yatharth0045@gmail.com"
+git add <file_name>
+git add .
+git add *.java
+git commit -m "any msggggg"
+git diff
+git diff --staged
+git remote -v
+git remote add origin https://github.com/Yatharth0045/session.git 
+
